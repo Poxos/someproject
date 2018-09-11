@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    Home
+    HomePage
 </body>
 </html>
