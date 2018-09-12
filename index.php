@@ -6,5 +6,7 @@
 </head>
 <body>
     HomePage
+	
+	SignUP
 </body>
 </html>
