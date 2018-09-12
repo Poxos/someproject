@@ -7,6 +7,6 @@
 <body>
     HomePage
 	
-	SignUP
+	<p>SignUP</p>
 </body>
 </html>
